@@ -20,3 +20,31 @@ Loads LUA Scripts from Autoload Folder
 No Delay InGame SMS Spam Loop To Annoy the hell out of a player with mass profanity sms messages and sound spam to go with it
 Players Feature Script adds functionality to players script functions in online tab
 
+## Custom Script Event Sender
+#Custom Send.lua
+
+## Moists Entity POS Control
+aimentity_positioning.lua
+Take control of World Entities and reposition them
+
+https://youtu.be/EKfjxTGdEKE
+
+
+
+## Moists Friend Checker
+friend_checker.lua
+
+Online Friends Checker Notify online & if online playing multiplayer
+1 click check
+Toggle Check Time multiplier to check again in mins
+
+
+Moists Apply Outfit Decals.lua
+
+moists attack script.v1.2.lua
+
+Moists Chat+sms Spam.lua
+
+Moists Ragdoll Control.lua
+
+
